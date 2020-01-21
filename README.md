@@ -4,9 +4,9 @@
 * [2020 BOSTON MARATHON: WOMEN’S QUALIFYING STANDARDS AND ACCEPTED TIMES](https://www.baa.org/2020-boston-marathon-qualifier-acceptances-announced)
 
 ## Boston 인정 한국 국제 마라톤
-* [대구국제마라톤 4.5](http://marathon.daegusports.or.kr/main/main.html)
+* [대구국제마라톤 4.5 3:50](http://marathon.daegusports.or.kr/main/main.html)
+* [춘천마라톤 10.25 3:20](http://www.chuncheonmarathon.com/)
 * [군산새만금마라톤 4.12](https://smgmarathon.com/)
 * [서울국제마라톤 3.22](http://www.seoul-marathon.com/)
-* [춘천마라톤 10.3주](http://www.chuncheonmarathon.com/)
 * [중앙마라톤 11.3](http://marathon.jtbc.com/)
 * [경주동아마라톤 10.??](http://www.gyeongjumarathon.com/)
