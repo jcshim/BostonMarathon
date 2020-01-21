@@ -3,6 +3,9 @@
 * [Qualifying 3:30분, 3시간20분](https://www.baa.org/races/boston-marathon/enter/qualify)
 * [2020 BOSTON MARATHON: WOMEN’S QUALIFYING STANDARDS AND ACCEPTED TIMES](https://www.baa.org/2020-boston-marathon-qualifier-acceptances-announced)
 
+# 훈련
+* [3:30완주 20주 훈련](http://www.marathon.pe.kr/training/330.html)
+
 ## Boston 인정 한국 국제 마라톤
 * [대구국제마라톤 4.5 3:50](http://marathon.daegusports.or.kr/main/main.html)
 * [춘천마라톤 10.25 3:20](http://www.chuncheonmarathon.com/)
