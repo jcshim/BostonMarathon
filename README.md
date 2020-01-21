@@ -5,6 +5,7 @@
 
 # 훈련
 * [3:30완주 20주 훈련](http://www.marathon.pe.kr/training/330.html)
+* [파클렉(야외주) 훈련](http://www.marathon.pe.kr/training/fartlek.html)
 
 ## Boston 인정 한국 국제 마라톤
 * [대구국제마라톤 4.5 3:50](http://marathon.daegusports.or.kr/main/main.html)
