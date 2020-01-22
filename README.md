@@ -19,3 +19,6 @@
 * [제29회 경주 벚꽃마라톤 4.4 3:50](http://cherrymarathon.com/)
 * [Nebraska Marathon 10.11 3:20](https://nebraskamarathon.org/)
 * [Boston April 2022](https://www.baa.org/races/boston-marathon)
+
+# Sub-3
+* [Sub-3 훈련 방법](https://blog.naver.com/raincalm/221394265865)
